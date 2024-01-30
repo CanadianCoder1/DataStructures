@@ -1,0 +1,16 @@
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\bin\Debug\net8.0-windows\DataStructures.exe
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\bin\Debug\net8.0-windows\DataStructures.deps.json
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\bin\Debug\net8.0-windows\DataStructures.runtimeconfig.json
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\bin\Debug\net8.0-windows\DataStructures.dll
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\bin\Debug\net8.0-windows\DataStructures.pdb
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\Binary_Trees_and_Linked_Lists.Form1.resources
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\DataStructures.csproj.GenerateResource.cache
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\DataStructures.AssemblyInfoInputs.cache
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\DataStructures.AssemblyInfo.cs
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\DataStructures.dll
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\refint\DataStructures.dll
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\DataStructures.pdb
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\DataStructures.genruntimeconfig.cache
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\ref\DataStructures.dll

@@ -1,0 +1,16 @@
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\bin\Debug\net8.0-windows\Binary Trees and Linked Lists.exe
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\bin\Debug\net8.0-windows\Binary Trees and Linked Lists.deps.json
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\bin\Debug\net8.0-windows\Binary Trees and Linked Lists.runtimeconfig.json
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\bin\Debug\net8.0-windows\Binary Trees and Linked Lists.dll
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\bin\Debug\net8.0-windows\Binary Trees and Linked Lists.pdb
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\Binary_Trees_and_Linked_Lists.Form1.resources
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\Binary Trees and Linked Lists.csproj.GenerateResource.cache
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\Binary Trees and Linked Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\Binary Trees and Linked Lists.AssemblyInfoInputs.cache
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\Binary Trees and Linked Lists.AssemblyInfo.cs
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\Binary Trees and Linked Lists.csproj.CoreCompileInputs.cache
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\Binary Trees and Linked Lists.dll
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\refint\Binary Trees and Linked Lists.dll
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\Binary Trees and Linked Lists.pdb
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\Binary Trees and Linked Lists.genruntimeconfig.cache
+C:\Users\Riley\source\repos\Binary Trees and Linked Lists\Binary Trees and Linked Lists\obj\Debug\net8.0-windows\ref\Binary Trees and Linked Lists.dll
